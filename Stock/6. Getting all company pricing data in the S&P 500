@@ -2,7 +2,7 @@
 import os
 
 os.getcwd()
-os.chdir('C:\\Users\\sxw17\\Desktop\\python learning\\Python for Finance\\Python_Programming_for_Finance')
+os.chdir() # delete my personal info
 
 import bs4 as bs
 import pickle
